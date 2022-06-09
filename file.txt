@@ -1,6 +1,7 @@
- boolean sleepIn(boolean weekday, boolean vacation) {
-         if(!weekday || vacation){
-             return true;
-        }
-        return false;
+ class Github{
+
+	public static void main(String[] args)
+	{
+		System.out.println("Github is not fucking easy");
+	}
 }
